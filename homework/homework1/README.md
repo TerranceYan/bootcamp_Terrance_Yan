@@ -1,4 +1,4 @@
-# Project Title: Real-time VaR based Monitoring System for IRDM
+# Project Title: Real-time Risk Monitoring System for IRDM
 ## Project Scoping
 Current policy instability triggers the high volatility and uncertainty in the IRDM (Interest Rate Derivative Market), causing potential loss from strong policy-driven risk exposure. The current VaR risk monitoring system no longer serves a good functionality in handling trading given this high volatile environment and a more immediate response on multiple risk-indicators including VaR is needed. It's therefore necessary to construct a real-time monitoring system capable of capturing the policy-driven impacts and provides early warnings of sharp increase in risk exposure.
 
